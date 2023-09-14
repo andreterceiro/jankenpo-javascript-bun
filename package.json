@@ -1,0 +1,29 @@
+{
+  "name": "jankenpo-javascript-bun",
+  "version": "1.0.0",
+  "description": "Simple Jankenpo game to run with Bun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreterceiro/jankenpo-javascript.git"
+  },
+  "keywords": [
+    "Jankenpo",
+    "JavaScript",
+    "Bun",
+    "Game",
+    "Simple"
+  ],
+  "author": "André de Paula Terceiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreterceiro/jankenpo-javascript-bun/issues"
+  },
+  "homepage": "https://github.com/andreterceiro/jankenpo-javascript-bun#readme",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
